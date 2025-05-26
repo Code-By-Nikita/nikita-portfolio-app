@@ -5,27 +5,27 @@ const Projects = () => {
   const projects = [
     {
       name: 'Weather-update-app',
-      description: 'This is a React-based application demonstrating core concepts like state, props, and component lifecycle.',
-      github: 'https://github.com/yourusername/project-1',
-      demo: 'https://your-demo-link.com/project-1',
+      description: 'Shows real-time weather updates and forecasts for any location with an easy-to-use interface.',
+      github: 'https://github.com/Code-By-Nikita/weather-update-app',
+      demo: 'https://code-by-nikita.github.io/weather-update-app',
     },
     {
       name: 'Nikita-portfolio-app',
-      description: 'A modern single-page application using React Router and custom hooks for routing and logic handling.',
-      github: 'https://github.com/yourusername/project-2',
-      demo: 'https://your-demo-link.com/project-2',
+      description: 'Personal website showcasing skills, projects, experience, and contact info with a clean, responsive design.',
+      github: 'https://github.com/Code-By-Nikita/nikita-portfolio-app',
+      demo: 'https://code-by-nikita.github.io/nikita-portfolio-app',
     },
     {
       name: 'The-indori-namkeen',
-      description: 'This project integrates third-party APIs into a React app with responsive UI and data visualization.',
-      github: 'https://github.com/yourusername/project-3',
-      demo: 'https://your-demo-link.com/project-3',
+      description: 'E-commerce app for browsing, ordering, and tracking delivery of snacks online. Currently in development phase.',
+      github: 'https://github.com/Code-By-Nikita/the-indori-namkeen',
+      demo: 'https://code-by-nikita.github.io/the-indori-namkeen',
     },
     {
       name: 'Punch-art-diaries',
-      description: 'A dashboard application with authentication, theming, and local storage using React and Tailwind CSS.',
-      github: 'https://github.com/yourusername/project-4',
-      demo: 'https://your-demo-link.com/project-4',
+      description: 'Online marketplace for buying and selling handmade craft products with user profiles and secure payments. Currently in development phase.',
+      github: 'https://github.com/Code-By-Nikita/punch-art-diaries',
+      demo: 'https://code-by-nikita.github.io/punch-art-diaries',
     },
   ];
 
